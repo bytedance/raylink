@@ -1,0 +1,1 @@
+All licenses of dependencies library are placed in here.

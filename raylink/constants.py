@@ -1,0 +1,10 @@
+RUN_PATH = '~/.raylink/runs'
+SAVED_MODEL = RUN_PATH + '/saved_models'
+SAVED_VARS = RUN_PATH + '/saved_vars'
+PS_SAFE_RATIO = 1.5
+PS_CACHE_SIZE = 6
+PS_TREE_K = 4
+META_WRAPPER = 'wrapper'
+META_OFFLINE = 'offline'
+META_SETUP = 'setup'
+CCON_BATCH = 200
